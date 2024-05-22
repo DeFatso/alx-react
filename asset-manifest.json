@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DeFatso.github.io/alx-react/0x01-react_intro/task_4/dashboard/static/css/main.6d71284b.css",
+    "main.js": "/DeFatso.github.io/alx-react/0x01-react_intro/task_4/dashboard/static/js/main.4070994b.js",
+    "static/js/453.59b8a61b.chunk.js": "/DeFatso.github.io/alx-react/0x01-react_intro/task_4/dashboard/static/js/453.59b8a61b.chunk.js",
+    "static/media/holberton_logo.jpg": "/DeFatso.github.io/alx-react/0x01-react_intro/task_4/dashboard/static/media/holberton_logo.a74edfdfa4e1be32bf0c.jpg",
+    "index.html": "/DeFatso.github.io/alx-react/0x01-react_intro/task_4/dashboard/index.html",
+    "main.6d71284b.css.map": "/DeFatso.github.io/alx-react/0x01-react_intro/task_4/dashboard/static/css/main.6d71284b.css.map",
+    "main.4070994b.js.map": "/DeFatso.github.io/alx-react/0x01-react_intro/task_4/dashboard/static/js/main.4070994b.js.map",
+    "453.59b8a61b.chunk.js.map": "/DeFatso.github.io/alx-react/0x01-react_intro/task_4/dashboard/static/js/453.59b8a61b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d71284b.css",
+    "static/js/main.4070994b.js"
+  ]
+}
