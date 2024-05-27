@@ -1,0 +1,10 @@
+.App-header {
+    display: flex;
+    font-size: calc(10px + 2vmin);
+    color: #E0354B;
+    border-bottom: 3px #E0354B solid;
+  }
+  
+  .App-header h1 {
+    align-self: center;
+  }  
