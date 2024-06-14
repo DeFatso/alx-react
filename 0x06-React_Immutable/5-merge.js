@@ -1,4 +1,4 @@
-const { concatElements, mergeElements } = require('./3-list');
+import { concatElements, mergeElements } from './3-list';
 
 const array1 = [1, 2, 3];
 const array2 = [4, 5, 6];
